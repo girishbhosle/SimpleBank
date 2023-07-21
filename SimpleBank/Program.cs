@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Welcome to Simple Bank!");
+            Console.WriteLine("Hello, World! - 2");
+            Console.WriteLine("Hello, World! - 2");
+            Console.WriteLine("Hello, World! - 2");
             Console.WriteLine("Hello, World! - 2");
         }
     }
