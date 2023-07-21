@@ -1,0 +1,15 @@
+C:\MVC9\SimpleBank\SimpleBank\bin\Debug\net7.0\SimpleBank.exe
+C:\MVC9\SimpleBank\SimpleBank\bin\Debug\net7.0\SimpleBank.deps.json
+C:\MVC9\SimpleBank\SimpleBank\bin\Debug\net7.0\SimpleBank.runtimeconfig.json
+C:\MVC9\SimpleBank\SimpleBank\bin\Debug\net7.0\SimpleBank.dll
+C:\MVC9\SimpleBank\SimpleBank\bin\Debug\net7.0\SimpleBank.pdb
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.csproj.AssemblyReference.cache
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.AssemblyInfoInputs.cache
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.AssemblyInfo.cs
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.csproj.CoreCompileInputs.cache
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.dll
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\refint\SimpleBank.dll
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.pdb
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\SimpleBank.genruntimeconfig.cache
+C:\MVC9\SimpleBank\SimpleBank\obj\Debug\net7.0\ref\SimpleBank.dll
